@@ -1,0 +1,4 @@
+C:\Users\EmilyFixico\source\repos\QueuesYF\QueuesYF\obj\Debug\net6.0\QueuesYF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmilyFixico\source\repos\QueuesYF\QueuesYF\obj\Debug\net6.0\QueuesYF.AssemblyInfoInputs.cache
+C:\Users\EmilyFixico\source\repos\QueuesYF\QueuesYF\obj\Debug\net6.0\QueuesYF.AssemblyInfo.cs
+C:\Users\EmilyFixico\source\repos\QueuesYF\QueuesYF\obj\Debug\net6.0\QueuesYF.csproj.CoreCompileInputs.cache
